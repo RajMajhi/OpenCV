@@ -1,4 +1,3 @@
-# OpenCV
 
 # OpenCV Basics in Python
 
